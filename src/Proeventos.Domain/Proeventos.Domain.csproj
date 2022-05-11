@@ -3,9 +3,4 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Proeventos.Application\Proeventos.Application.csproj" />
-  </ItemGroup>
-
 </Project>
